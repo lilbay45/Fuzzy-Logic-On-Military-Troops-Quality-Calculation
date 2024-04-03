@@ -17,6 +17,5 @@
 
 8. **Output**: Setelah evaluasi, output dari sistem kontrol fuzzy dapat diakses melalui atribut `output`. Dalam kasus ini, outputnya adalah tingkat kualitas pasukan. 
 
-9. **Output**: Nilai output ditampilkan untuk memberikan hasil dari evaluasi sistem kontrol fuzzy.
+9. **Output**: Nilai output ditampilkan untuk memberikan hasil dari evaluasi sistem kontrol fuzzy dalam bentuk nama file 'hasil_kualitas_pasukan'
 
-Dengan demikian, kode tersebut mengimplementasikan logika fuzzy untuk menentukan tingkat kualitas pasukan berdasarkan intensitas latihan, kursus kemampuan, dan kebugaran fisik yang diberikan.
