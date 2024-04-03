@@ -1,0 +1,1 @@
+# Fuzzy-Logic-On-Military-Troops-Quality-Calculation
